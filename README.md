@@ -7,6 +7,10 @@ Below is the image where firstly the column for tripduration is changed to a Dat
 ![image](https://user-images.githubusercontent.com/107962343/199520058-6ba6b98a-6652-489c-8a38-2769e67f65c3.png)
 
 ## Results
+
+The link to the story on Tableau is here: 
+https://public.tableau.com/app/profile/kinjal.suthar/viz/CitibikechallengeViz/Story1#1
+
 Below are the images of different visualizations:
 
 ![image](https://user-images.githubusercontent.com/107962343/199520235-4d37ed07-4458-4f4b-8aa5-c09efdeea34d.png)
